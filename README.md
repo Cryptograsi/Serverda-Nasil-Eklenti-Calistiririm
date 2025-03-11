@@ -1,0 +1,1 @@
+# Serverda-Nasil-Eklenti-Calistiririm

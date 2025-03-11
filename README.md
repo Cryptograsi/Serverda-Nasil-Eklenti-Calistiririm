@@ -147,13 +147,13 @@ Ben altta sıraladığım eklentileri çalıştırıyorum. Eğer sizin hala çal
 
 #### 8) Primus Labs:
 6.5M dolar yatırım aldı.
-Eklentiyi  [Buradan](https://chromewebstore.google.com/detail/primus-prev-pado/oeiomhmbaapihbilkfkhmlajkeegnjhe) kurun.
+Eklentiyi  [buradan](https://chromewebstore.google.com/detail/primus-prev-pado/oeiomhmbaapihbilkfkhmlajkeegnjhe) kurun.
 Sizden kod isteyecek, “257PAOL” kodunu girin ekstra puan verecek. 
 
 
 
 #### 9) Blockcast:
-Henüz uzantısı yok,  [Buradan](http://10.0.2.112:3000?referral-code=tK6Qzf) kayıt olup sosyal medya görevlerini tamamlayalım ve erkenden yerimizi alalım.
+Henüz uzantısı yok,  [buradan](http://10.0.2.112:3000?referral-code=tK6Qzf) kayıt olup sosyal medya görevlerini tamamlayalım ve erkenden yerimizi alalım.
 
 
 
@@ -199,7 +199,7 @@ Henüz uzantısı yok,  [Buradan](http://10.0.2.112:3000?referral-code=tK6Qzf) k
 
 
 #### 18) Gaianet:
-Son demlerini yaşıyor olabiliriz ama en azından sosyal medya görevlerini tamamlayıp yerinizi almak isterseniz linkten kayıt olabilirsiniz: https://gaianet.ai/reward?invite_code=Rr1PJc
+Son demlerini yaşıyor olabiliriz ama en azından sosyal medya görevlerini tamamlayıp yerinizi almak isterseniz [buradan](https://gaianet.ai/reward?invite_code=Rr1PJc) kayıt olabilirsiniz: 
 Gaianet’in CLI nodu da mevcut. Eğer hızlıca puan kazanmak isterseniz [benimle](https://x.com/cryptograsi) X üzerinden dm ile iletişime geçebilirsiniz.
 
 
@@ -210,11 +210,11 @@ Gaianet’in CLI nodu da mevcut. Eğer hızlıca puan kazanmak isterseniz [benim
 
 
 #### 20) Grass:
-Uzun zamandır çalıştırdığım bir eklenti, DePin eklentilerinin öncüsü diyebiliriz. Tokeni markette listeli. Çok ödül vereceğini sanmam fakat çalıştırmak isterseniz [Buradan](https://app.getgrass.io/register/?referralCode=sPgtuWYvWZKv7UC) kayıt olabilirsiniz: 
+Uzun zamandır çalıştırdığım bir eklenti, DePin eklentilerinin öncüsü diyebiliriz. Tokeni markette listeli. Çok ödül vereceğini sanmam fakat çalıştırmak isterseniz [buradan](https://app.getgrass.io/register/?referralCode=sPgtuWYvWZKv7UC) kayıt olabilirsiniz: 
 
 
 
 #### 21) NodePay:
-Tokeni listeli ve yine çok ödül vermesi düşük olan bir proje. Bunu da Grass gibi kenarda dursun diyerek çalıştırmak isterseniz [Buradan](https://app.nodepay.ai/register?ref=aSetmleGqAzVRWt) kayıt olun
+Tokeni listeli ve yine çok ödül vermesi düşük olan bir proje. Bunu da Grass gibi kenarda dursun diyerek çalıştırmak isterseniz [buradan](https://app.nodepay.ai/register?ref=aSetmleGqAzVRWt) kayıt olun
 
 

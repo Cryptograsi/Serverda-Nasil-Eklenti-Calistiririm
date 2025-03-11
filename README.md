@@ -35,7 +35,7 @@ sudo apt update -y && sudo apt upgrade -y
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 ```
 
-### Versiyon kontrolü yapalım
+### Versiyon Kontrolü
 
 Çıktı "27.5.1, build 9f9e405" şeklindeyse devam
 ```
@@ -54,7 +54,7 @@ mkdir chromium
 cd chromium
 ```
 
-##Docker Compose Dosyasının İçini Düzenleme
+## Docker Compose Dosyası Yapılandırma
 
 ```
 nano docker-compose.yaml
